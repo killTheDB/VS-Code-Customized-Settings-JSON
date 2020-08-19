@@ -1,0 +1,38 @@
+"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "C_Cpp.updateChannel": "Insiders",
+  "polacode.backgroundColor": "#ece3e3",
+
+  "editor.tokenColorCustomizations": {
+    "strings": "#95ff85",
+    "variables": "#ecc5a0",
+    "comments": "#4b4b4a",
+    "numbers": "#7ca2f5",
+    "keywords": "#eb903b",
+    "functions": "#fa608e"
+  },
+
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#ff5a55",
+    "activityBar.foreground": "#000000",
+    "activityBar.activeFocusBorder": "#2c2855",
+    "activityBar.inactiveForeground": "#ffffff",
+    "activityBarBadge.background": "#000000",
+    "contrastActiveBorder": "#ff5a55",
+    "sideBar.background": "#28214d",
+    "sideBar.border": "#76a7f0",
+    "sideBar.foreground": "#faf7f7",
+    "sideBarTitle.foreground": "#ffffff",
+    "button.foreground": "#0a0101",
+    "button.secondaryForeground": "#0000",
+    "button.hoverBackground": "#000000",
+    "button.secondaryHoverBackground": "#000000",
+    "editor.background": "#181717"
+  },
+
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onWindowChange",
+  "files.trimFinalNewlines": true,
+  "editor.mouseWheelZoom": true
